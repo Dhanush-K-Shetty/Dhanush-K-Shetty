@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working as a Pricing Analyst<br>🌱 I’m currently learning  AWS<br>
+🔭 I’m currently working as a Pricing Analyst<br>
+
 
 
 ## 🌐 Socials:
